@@ -24,6 +24,21 @@ This was a talk given to UCC undergraduates in February 2016, before they undert
 [Slides](https://github.com/donnachaforde/talks-posts/blob/master/talks/Working%20in%20Software%20(UCC%2C%20Feb%202016).pptx)
 
 
+***
+## Blogs
+
+### JVM Performance Tuning
+
+A five-part blog on Java Virtual Machine Tuning covering:
+
++ JVM Concepts
++ The Java Memory Model
++ Garbage Collectors
++ Heap Configuration & JIT
++ JVM Diagnostics
+
+The entire blog is published on Blogger.com, starting with the first blog [here](https://donnachaforde.blogspot.com/2015/09/jvm-performance-tuning-part-i-jvm.html).
+
 
 ***
 ## Posts
