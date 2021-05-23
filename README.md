@@ -31,7 +31,7 @@ This was a talk given to UCC undergraduates in February 2016, before they undert
 The entire blog is published on Blogger.com, starting with the first blog [here](https://donnachaforde.blogspot.com/2015/09/jvm-performance-tuning-part-i-jvm.html).
 
 
-*  [Code Design](blogs/code-design/READ.md)
+*  [Code Design](blogs/code-design/README.md)
 Ruminations on code-level design issues. 
 ***
 ## Posts
