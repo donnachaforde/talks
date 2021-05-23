@@ -25,20 +25,19 @@ This was a talk given to UCC undergraduates in February 2016, before they undert
 
 
 ***
-## Blogs
+## [Blogs](blogs/README.md)
 
-### JVM Performance Tuning
-
-A five-part blog on Java Virtual Machine Tuning covering:
-
-+ JVM Concepts
-+ The Java Memory Model
-+ Garbage Collectors
-+ Heap Configuration & JIT
-+ JVM Diagnostics
-
+* [JVM Performance Tuning](blogs/jvm-performance-tuning/README.md) 
 The entire blog is published on Blogger.com, starting with the first blog [here](https://donnachaforde.blogspot.com/2015/09/jvm-performance-tuning-part-i-jvm.html).
 
 
+*  [Code Design](blogs/code-design/READ.md)
+Ruminations on code-level design issues. 
 ***
 ## Posts
+
+TBC
+
+*** 
+Donnacha Forde
+May 2021
