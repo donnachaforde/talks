@@ -18,8 +18,7 @@ This was a talk given to UCC undergraduates in February 2016, before they undert
 [Slides](https://github.com/donnachaforde/talks-posts/blob/master/talks/Working%20in%20Software%20(UCC%2C%20Feb%202016).pptx)
 
 
+
 ***
-Note: You'll need Microsoft Powerpoint (or compatible) to view the slides.
-
-
+###### Note: You'll need Microsoft Powerpoint (or compatible) to view the slides. Download the file to your local host to view. 
 ***
