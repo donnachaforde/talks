@@ -9,6 +9,7 @@ First, I've learnt that thinking can be improved just through the process of _pu
 Ruminations on C++ OO Design
 * [Overview](https://github.com/donnachaforde/espresso/blob/master/docs/README.md)  
 * [Creation Pattens](https://github.com/donnachaforde/espresso/blob/master/docs/Blog-Construction.md)
+* [Manager Object & MVC](https://github.com/donnachaforde/espresso/blob/master/docs/Blog-Manager-Object.md)
 
 
 
